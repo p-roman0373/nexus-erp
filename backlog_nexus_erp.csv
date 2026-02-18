@@ -1,0 +1,10 @@
+ID,Resumen,Modulo,Estado,Story_Points,Repositorio_GitHub,Link_Figma
+NE123-1,INV-01 Registrar producto,Inventario,In Progress,3,https://github.com/p-roman0373/nexus-erp.git,https://www.figma.com/make/VoYfaRhv2lcNFbperC9UVK/ERP-CRM-Module-Interface
+NE123-4,INV-04 Consultar stock,Inventario,In Progress,3,https://github.com/p-roman0373/nexus-erp.git,https://www.figma.com/make/VoYfaRhv2lcNFbperC9UVK/ERP-CRM-Module-Interface
+NE123-2,INV-02 Registrar entrada de stock,Inventario,In Progress,5,https://github.com/p-roman0373/nexus-erp.git,https://www.figma.com/make/VoYfaRhv2lcNFbperC9UVK/ERP-CRM-Module-Interface
+NE123-3,INV-03 Registrar salida de stock,Inventario,In Progress,5,https://github.com/p-roman0373/nexus-erp.git,https://www.figma.com/make/VoYfaRhv2lcNFbperC9UVK/ERP-CRM-Module-Interface
+NE123-9,CRM-02 Editar cliente,CRM,In Progress,5,https://github.com/p-roman0373/nexus-erp.git,https://www.figma.com/make/VoYfaRhv2lcNFbperC9UVK/ERP-CRM-Module-Interface
+NE123-8,CRM-01 Registrar cliente,CRM,To Do,3,https://github.com/p-roman0373/nexus-erp.git,https://www.figma.com/make/VoYfaRhv2lcNFbperC9UVK/ERP-CRM-Module-Interface
+NE123-10,CRM-03 Consultar listado de clientes,CRM,To Do,3,https://github.com/p-roman0373/nexus-erp.git,https://www.figma.com/make/VoYfaRhv2lcNFbperC9UVK/ERP-CRM-Module-Interface
+NE123-11,CRM-04 Registrar interacción,CRM,To Do,5,https://github.com/p-roman0373/nexus-erp.git,https://www.figma.com/make/VoYfaRhv2lcNFbperC9UVK/ERP-CRM-Module-Interface
+
